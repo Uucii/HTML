@@ -1,0 +1,22 @@
+#merah {
+    color:red;
+}
+#kuning {
+    color:yellow;
+}
+#hijau {
+    color:green;
+
+}
+input[type=text] {
+    background-color: azure;
+    color: black;
+    border: 5px; solid:rgb(24, 24, 24);
+    width: 200px;
+    padding: 5px;
+    margin: 10px;
+    
+}
+input[type=password] {
+    background-color: aliceblue ;
+}
